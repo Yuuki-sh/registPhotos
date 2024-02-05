@@ -4,7 +4,7 @@ from PIL import Image
 
 st.title('写真登録用')
 
-img01 = Image.open('.\pictures\kurumayama.JPG')
+img01 = Image.open('.\kurumayama.JPG')
 st.image(img01, caption='車山高原', use_column_width=300)
 
 img02 = Image.open('.\pictures\IMG_2085.jpg')
