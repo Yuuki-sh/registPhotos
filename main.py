@@ -63,6 +63,6 @@ st.image(img02, caption='角島', use_column_width=300)
 img03 = Image.open('DSC02752--EDIT.jpg')
 st.image(img03, caption='灯台', use_column_width=100)
 
-img03 = Image.open('raw_data.jpg')
-st.image(img03, caption='びわ湖バレイ', use_column_width=100)
+img04 = Image.open('raw_data.jpg')
+st.image(img04, caption='びわ湖バレイ', use_column_width=100)
 
